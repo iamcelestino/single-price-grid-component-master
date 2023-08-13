@@ -8,8 +8,8 @@
 
 
 ### Links
-- Solution URL: [solution URL here]()
-- Live Site URL: [live site URL here]()
+- Solution URL: [solution URL here](https://github.com/iamcelestino/single-price-grid-component-master.git)
+- Live Site URL: [live site URL here](https://iamcelestino.github.io/single-price-grid-component-master/)
 
 ## My process
 
